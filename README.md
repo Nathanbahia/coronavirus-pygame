@@ -14,7 +14,7 @@
 
 *2. I did almost all from my logic knowledge in Python. So, I used few Classes from Pygame.*
 
-*3. I will replace all images from the game. These are just placeholder for while.
+*3. I will replace all images from the game. These are just placeholder for while.*
 
 *4. My English isn't good, so, probably you will see grammatical errors. But, focus on the code!!!*
   
